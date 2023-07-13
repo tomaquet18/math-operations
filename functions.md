@@ -2,7 +2,7 @@
 
 This document provides detailed explanations and usage examples for each math function available in this repository.
 
-## Index
+## 📚 Index
 ### Arithmetic:
 - Division
 - Multiplication
