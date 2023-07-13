@@ -20,7 +20,7 @@
 
 ## Usage
 
-Each function in this repository is self-contained and documented with a description, input parameters, and usage examples. You can explore the individual files in the repository to find the specific functions you need.
+Each function in this repository is self-contained and documented with a description, input parameters, and usage examples. You can explore the individual files in the repository to find the specific functions you need. Documentation for each function can be found [here](functions.md).
 
 Feel free to use these functions in your own projects, contribute improvements, or suggest new functions. If you encounter any issues or have any questions, please don't hesitate to open an issue or submit a pull request.
 
