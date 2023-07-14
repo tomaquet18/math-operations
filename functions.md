@@ -4,11 +4,10 @@ This document provides detailed explanations and usage examples for each math fu
 
 ## 📚 Index
 ### Arithmetic:
-- Division
-- Multiplication
-- Substraction
-- Sum
-
+- [Addition](arithmetic/arithmetic.md#additiona-b)
+- [Substraction](arithmetic/arithmetic.md#subtractiona-b)
+- [Multiplication](arithmetic/arithmetic.md#multiplicationa-b)
+- [Division](arithmetic/arithmetic.md#divisiona-b)
 ### Exponential:
 - Exponentiation
 - Square root
