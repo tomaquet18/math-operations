@@ -14,8 +14,8 @@ This document provides detailed explanations and usage examples for each math fu
 - [Square root](exponential/exponential.md#square_rootnumber)
 
 ### Exponential functions:
-- Exponential
-- Natural logarithm
+- [Exponential](exponential_functions/exponential_functions.md#calculate_exponentialbase)
+- [Natural logarithm](exponential_functions/exponential_functions.md#calculate_natural_logarithmnumber)
 
 ### Factorial:
 - Factorial
