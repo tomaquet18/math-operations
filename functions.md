@@ -24,7 +24,7 @@ This document provides detailed explanations and usage examples for each math fu
 - [Matrix inversion](linear_algebra/linea_algebra.md#calculate_matrix_inversionmatrix)
 
 ### Logarithm:
-- Logarithm
+- [Logarithm](logarithm/logarithm.md#calculate_logarithmbase-number)
 
 ### Trigonometry:
 - Trigonometry
