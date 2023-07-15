@@ -8,9 +8,10 @@ This document provides detailed explanations and usage examples for each math fu
 - [Substraction](arithmetic/arithmetic.md#subtractiona-b)
 - [Multiplication](arithmetic/arithmetic.md#multiplicationa-b)
 - [Division](arithmetic/arithmetic.md#divisiona-b)
+
 ### Exponential:
-- Exponentiation
-- Square root
+- [Exponentiation](exponential/exponential.md#powerbase-exponent)
+- [Square root](exponential/exponential.md#square_rootnumber)
 
 ### Exponential functions:
 - Exponential
