@@ -27,4 +27,6 @@ This document provides detailed explanations and usage examples for each math fu
 - [Logarithm](logarithm/logarithm.md#calculate_logarithmbase-number)
 
 ### Trigonometry:
-- Trigonometry
+- [Sine](trigonometry/trigonometry.md#calculate_sineangle)
+- [Cosine](trigonometry/trigonometry.md#calculate_cosineangle)
+- [Tangent](trigonometry/trigonometry.md#calculate_tangentangle)
