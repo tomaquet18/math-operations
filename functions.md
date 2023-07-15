@@ -18,7 +18,7 @@ This document provides detailed explanations and usage examples for each math fu
 - [Natural logarithm](exponential_functions/exponential_functions.md#calculate_natural_logarithmnumber)
 
 ### Factorial:
-- Factorial
+- [Factorial](factorial/factorial.md#calculate_factorialnumber)
 
 ### Linear algebra:
 - Matrix inversion
