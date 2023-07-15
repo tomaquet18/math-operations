@@ -21,7 +21,7 @@ This document provides detailed explanations and usage examples for each math fu
 - [Factorial](factorial/factorial.md#calculate_factorialnumber)
 
 ### Linear algebra:
-- Matrix inversion
+- [Matrix inversion](linear_algebra/linea_algebra.md#calculate_matrix_inversionmatrix)
 
 ### Logarithm:
 - Logarithm
